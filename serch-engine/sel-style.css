@@ -1,0 +1,14 @@
+body {
+    font-family: tahoma;
+}
+
+li {
+    background-color: #ffff00;
+    font-weight: bold;
+    border-radius: 3px;
+    width: 25%;
+}
+
+p {
+    margin: 5px 20px;
+}

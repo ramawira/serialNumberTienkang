@@ -1,0 +1,13 @@
+body {
+    font-family: segoe UI;
+}
+
+h2 {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding-left: 10px;
+    margin-bottom: 1%;
+    width: 50%;
+}
